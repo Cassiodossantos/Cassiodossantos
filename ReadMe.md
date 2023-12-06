@@ -1,5 +1,5 @@
 # 💫 About Me:
-Programador python e fron-end júnior.<br>Estou a procura de estágio.
+Programador Júnior.<br>Estou a procura um de estágio.
 
 
 ## 🌐 Socials:
