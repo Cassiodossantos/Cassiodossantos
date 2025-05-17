@@ -1,5 +1,5 @@
 # 💫 About Me:
-Programador Júnior.<br>Estou a procura um de estágio.
+Programador Júnior.<br>a procura um de estágio.
 
 
 ## 🌐 Socials:
